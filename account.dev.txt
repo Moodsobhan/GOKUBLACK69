@@ -7,7 +7,7 @@
         "name": "datr",
         "path": "/",
         "sameSite": "no_restriction",
-        "secure": true,
+        ": true,
         "session": false,
         "storeId": null,
         "value": "J1-baGPjGYKO56lR7xGyleis"
